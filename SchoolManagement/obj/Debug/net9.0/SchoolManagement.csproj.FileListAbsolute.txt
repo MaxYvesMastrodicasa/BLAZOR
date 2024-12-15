@@ -1,0 +1,10 @@
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.csproj.AssemblyReference.cache
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.AssemblyInfoInputs.cache
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.AssemblyInfo.cs
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.RazorAssemblyInfo.cache
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.RazorAssemblyInfo.cs
+C:\Dev\B3\DotNet\BLAZOR\SchoolManagement\obj\Debug\net9.0\SchoolManagement.sourcelink.json
